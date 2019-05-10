@@ -1,0 +1,17 @@
+.thumbs {
+  display: flex;
+
+  .my-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    figure {
+      margin: 10px;
+      box-shadow: 0 0 10px #ccc;
+      img {
+        width: 100px;
+        vertical-align: middle;
+      }
+    }
+  }
+
+}
