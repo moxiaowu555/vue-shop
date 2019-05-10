@@ -14,7 +14,7 @@ import store from './store/store'
 import './css/thumbs.scss'
 
 // 引入mui
-import './lib/mui/css/mui.min.css'
+import './lib/mui/css/mui.css'
 import './lib/mui/css/icons-extra.css'
 
 // 按需引入 mint-ui
